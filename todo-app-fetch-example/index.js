@@ -59,6 +59,14 @@ async function addTodo(todoText) {
     displayTodos(data.todo);
 }
 
+/**
+ * Ta bort en todo
+ * 1. Lägg till id på varje li-tagg
+ * 2. Sätt en event-listener på varje li-tagg
+ * 3. När man klickar på en todo så hämta id:et från li-taggen
+ * 4. Gör ett fetch-anrop med delete
+ */
+
 async function deleteTodo(todoId) {
     // Lägg till funktionalitet för att ta bort en todo
 }
