@@ -34,3 +34,5 @@ Fetch: https://javascript.info/fetch
 ## Videor
 
 ## Inspelningar
+
+https://funet-my.sharepoint.com/:f:/g/personal/christoffer_wallenberg_folkuniversitetet_se/EoCkrTQB63dCu9YGjdi0jWUBCDZESfwwPgyrMvJ386Hw8Q?e=8Bt2c6
